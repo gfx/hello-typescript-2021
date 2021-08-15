@@ -8,3 +8,5 @@ function main() {
 }
 
 main();
+
+let hoge;
