@@ -1,10 +1,9 @@
-
 function hello(s: string): string {
-    return `Hello, ${s}!`;
+  return `Hello, ${s}!`;
 }
 
 function main() {
-    console.log(hello("world"));
+  console.log(hello("world"));
 }
 
 main();
